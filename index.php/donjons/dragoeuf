@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -124,7 +118,7 @@
 	<br />
 	<table>
         <tr>
-           <th class="ocentre"><img src="../../assets/images/donjon/drag/cleesanctuaire.jpg" alt="" /><img src="https://barbok.eternal-games.com/assets/images/donjon/dragu/cleedonjon.jpg" alt="" /></th>
+           <th class="ocentre"><img src="../../assets/images/donjon/drag/cleesanctuaire.jpg" alt="" /><img src="https://barbok.barbok-retro.com/assets/images/donjon/dragu/cleedonjon.jpg" alt="" /></th>
         </tr>
   		<tr>
 		   <th class="marques"><br />2 clées pour ce donjon, la clée sanctuaire qui se drop dans le souterrain drag (vous entrez dans les maisons et tombez dans les trous) que les bricoleurs vous craft et la clée du donjon qui se drop dans le sanctuaire et qui se craft aussi par les bricoleurs.<br /></th>
@@ -169,7 +163,7 @@
 	
 	<table>
         <tr>
-           <th class="ocentre"><img src="../../assets/images/donjon/drag/drag7.jpg" alt="" /><br /><img src="https://barbok.eternal-games.com/assets/images/donjon/dragu/dragoeufvolant.jpg" alt="" /></th>
+           <th class="ocentre"><img src="../../assets/images/donjon/drag/drag7.jpg" alt="" /><br /><img src="https://barbok.barbok-retro.com/assets/images/donjon/dragu/dragoeufvolant.jpg" alt="" /></th>
         </tr>
   		<tr>
 		   <th class="marques"><br />des dragoeufs volant qui filent des PM à tous le monde et sautent partout<br /></th>

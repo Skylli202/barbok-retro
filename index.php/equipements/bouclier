@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -121,14 +115,14 @@
 		<div id="corps">
 			<p class="donjon">Les boucliers</p>
 <br/>
-<a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9006" id="id_item_9006"></a>
+<a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9006" id="id_item_9006"></a>
 <table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Sadida</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9006" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9006" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -142,13 +136,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier servait à l'origine de tabouret aux Sadidas lorsque ces derniers devaient se reposer. Une fois les pieds repliés, il vous protègera de beaucoup d'attaques, mais pas des fous rires de vos adversaires.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#7077" id="id_item_7077"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#7077" id="id_item_7077"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier en Mousse</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_7077" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_7077" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -162,13 +156,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier jaune, poreux mais absorbant a été conçu à partir des restes d'un animal qui avait élu domicile dans un Maskananas tombé au fond de la mer.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9007" id="id_item_9007"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9007" id="id_item_9007"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier en Slip</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9007" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9007" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -182,13 +176,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Cette création surprenante, est recouverte d'un Slip en Cuir du Chafer lancier, bouilli, nettoyé et détendu pour épouser les formes du bouclier, qui sont loin de rappeler celles du Chafer, bien plus avantageuses et aguichantes...</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9016" id="id_item_9016"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9016" id="id_item_9016"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Mont Kipou</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9016" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9016" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -202,13 +196,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Verdâtre et malodorant, ce bouclier n'en reste pas moins une protection de choix, lorsqu'il s'agît d'affronter les créatures du Mont Kipou.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9024" id="id_item_9024"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9024" id="id_item_9024"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Chouque</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9024" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9024" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -222,13 +216,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Le Chouque se servait de ce bouclier pour se protéger des gros boulets qui lui étaient régulièrement envoyés. Les histoires les plus folles, racontent même que certains boulets étaient vivants.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9015" id="id_item_9015"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9015" id="id_item_9015"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Bûcheron</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9015" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9015" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -242,13 +236,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier servait à l'origine aux bûcherons qui voulaient se protéger de la chute des arbres. Il a vite été détourné de son usage, et sert maintenant à se protéger des chutes des ennemis qui ont parfois une fâcheuse tendance à vous tomber dessus sans prévenir.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9021" id="id_item_9021"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9021" id="id_item_9021"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Captain Amakna</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9021" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9021" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -262,13 +256,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Un jeune aventurier avait voulu s'enrôler dans la milice de Bonta pour défendre les opprimés. Réformé en raison de sa constitution trop faible, il fut tout de même contacté par un Alchimiste d'Amakna, déterminé à l'utiliser comme cobaye pour tester une de ses nouvelles potions magiques. L'effet fut immédiat, le jeune aventurier devint rapidement un véritable guerrier d'une force extraordinaire, mais aussi complètement stupide. Il avait en fait été transformé en Iop. Il se fit forger ce bouclier réputé indestructible, et le surnom de Captain Amakna (en hommage à l'illustre Captain Chafer qui disparut dans des circonstances bien mystérieuses) lui fut attribué pour l'éternité.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9012" id="id_item_9012"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9012" id="id_item_9012"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Cadran d'Air</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9012" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9012" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -282,13 +276,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier original vous protègera de l'élément Air, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9027" id="id_item_9027"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9027" id="id_item_9027"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Craqueleur</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9027" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9027" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -302,13 +296,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier en pierre est en fait une tête de Craqueleur écrasée par le pied d'un Minotoror. Une façon comme une autre de combiner grosse tête et odeurs de pieds.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9014" id="id_item_9014"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9014" id="id_item_9014"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Cadran d'Eau</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9014" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9014" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -322,13 +316,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier original vous protégera de l'élément Eau, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9022" id="id_item_9022"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9022" id="id_item_9022"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Kloume</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9022" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9022" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -342,13 +336,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Cet énorme bouclier a jadis, permis au célèbre aventurier Kloume, de ne pas mourir écrasé sous le poids d'un Craqueleur qui était tombé amoureux de lui. L'histoire ne raconte pas s'il a survécu aux effets secondaires de sa relation passionnée avec le Craqueleur.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9018" id="id_item_9018"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9018" id="id_item_9018"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Le Karde Coeur</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9018" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9018" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -362,13 +356,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Un illustre aventurier collectionneur, a passé sa vie à chercher ce type de bouclier. On raconte qu'une fois quatre de ces boucliers réunis, on pouvait jouir d'une meilleure vie.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9481" id="id_item_9481"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9481" id="id_item_9481"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Poshoclier</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9481" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9481" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -382,13 +376,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Le clou planté dans ce bouclier peut servir d'arme de corps à corps si vous voulez crever votre adversaire pour qu'il se dégonfle.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9002" id="id_item_9002"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9002" id="id_item_9002"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Ftalmo</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9002" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9002" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -402,13 +396,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier est recouvert de divers yeux, pour permettre à son porteur de fixer plus facilement son adversaire dans les yeux.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9020" id="id_item_9020"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9020" id="id_item_9020"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Derma Tho</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9020" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9020" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -422,13 +416,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier en peau, risque de vous coller à la peau, tellement vous l'apprécierez. N'oubliez pas de soigner ses verrues et ses furoncles de temps en temps pour éviter qu'il ne s'abîme.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9011" id="id_item_9011"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9011" id="id_item_9011"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Cadran de Feu</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9011" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9011" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -442,13 +436,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier original vous protégera de l'élément Feu, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9013" id="id_item_9013"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9013" id="id_item_9013"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Cadran de Terre</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9013" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9013" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -462,13 +456,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier original vous protégera de l'élément Terre, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9482" id="id_item_9482"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9482" id="id_item_9482"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Cigaloclier</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9482" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9482" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -482,13 +476,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Si vous avez peur d'effrayer vos amis avec votre tête de monstre, vous pourrez toujours vous cacher derrière ce bouclier pour ressembler à quelqu'un de sympathique.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9025" id="id_item_9025"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9025" id="id_item_9025"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Bouftou</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9025" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9025" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -502,13 +496,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Assez inutile mais tout de même impressionnant grâce à l'odeur qu'il dégage, ce bouclier sera le compagnon de beaucoup de jeunes aventuriers.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9019" id="id_item_9019"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9019" id="id_item_9019"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier du Bawbawe</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9019" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9019" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -522,13 +516,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Tous les Wabbits ne sont pas de petites créatures inoffensives. En réalité, tous les Wabbits sont d'infâmes créatures, certains ont même des moeurs barbares et écrasent les Cawottes avec cet énorme bouclier, pour en faire du jus.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9029" id="id_item_9029"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9029" id="id_item_9029"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Feudala</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9029" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9029" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -542,13 +536,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Feudala devrait faire l'affaire.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9010" id="id_item_9010"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9010" id="id_item_9010"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Pandawa</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9010" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9010" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -562,13 +556,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Idéal pour se faire discret sur Pandala, et pour se faire remarquer partout ailleurs, ce bouclier a surtout l'avantage d'être recouvert de poils de Pandawas, réputés pour ne jamais déclencher la moindre allergie. Vous pourrez donc sans crainte ranger ce bouclier directement dans votre slip en cuir.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9003" id="id_item_9003"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9003" id="id_item_9003"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Taverne</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9003" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9003" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -582,13 +576,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Le tavernier de la brasserie Feubuk de Bonta devait certainement s'ennuyer fermement lorsqu'il eu soudainement l'idée d'équiper les videurs de sa taverne avec ces boucliers publicitaires.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9483" id="id_item_9483"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9483" id="id_item_9483"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Boh-Bihn</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9483" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9483" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -602,13 +596,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier était utilisé par les jeunes Iops qui y rangeaient les images offertes par leurs instituteurs pour les récompenser de leurs efforts. De temps en temps, ils s'amusaient à les faire défiler rapidement pour épater leurs camarades de classe.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9004" id="id_item_9004"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9004" id="id_item_9004"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Akwadala</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9004" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9004" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -622,13 +616,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Akwadala devrait faire l'affaire.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9009" id="id_item_9009"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9009" id="id_item_9009"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Abraknyde</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9009" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9009" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -642,13 +636,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Caché derrière ce bouclier, les aventuriers les plus naïfs pourront vous prendre pour un Abraknyde et se sauver en courant. Les autres vous agresseront en pensant récupérer quelques ambres.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9030" id="id_item_9030"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9030" id="id_item_9030"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Aerdala</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9030" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9030" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -662,13 +656,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Aerdala devrait faire l'affaire.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9028" id="id_item_9028"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9028" id="id_item_9028"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Terrdala</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9028" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9028" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -682,13 +676,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Terrdala devrait faire l'affaire.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9484" id="id_item_9484"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9484" id="id_item_9484"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Tigré</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9484" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9484" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -702,13 +696,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier ne protège pas totalement son propriétaire, mais il pourra vous défendre efficacement contre les fantômes.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9026" id="id_item_9026"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9026" id="id_item_9026"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier de Bowisse</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9026" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9026" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -722,13 +716,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier est clairement un hommage à la cape du Bowisse, elle-même étant un hommage à une célèbre relique composée de trois fragments de forme triangulaire. Encore une histoire à dormir debout.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9001" id="id_item_9001"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9001" id="id_item_9001"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier de Sidimote</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9001" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9001" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -742,13 +736,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier est censé rappeler à vos adversaires que vous avez grandi dans les Landes de Sidimote. Il paraît que cela pourrait suffire à les effrayer.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9017" id="id_item_9017"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9017" id="id_item_9017"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier des Brigandins</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9017" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9017" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -762,13 +756,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Si vous avez toujours rêvé d'être un vrai Brigandin, c'est le bouclier qu'il vous faut. Transmis de générations en générations, il vous permettra de détrousser sans prendre le moindre coup, les jeunes aventuriers d'Astrub.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#7070" id="id_item_7070"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#7070" id="id_item_7070"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier des Brigandins écorché</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_7070" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_7070" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -782,13 +776,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce brave bouclier a vu trop de batailles, il n'est plus bon à rien dans son état. Peut-être que Bouwada, au village Pandala, pourra vous le remplacer.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#7097" id="id_item_7097"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#7097" id="id_item_7097"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier d'entraînement</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_7097" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_7097" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -802,13 +796,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce bouclier est donné aux disciples qui ne savent pas encore correctement utiliser un bouclier.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9005" id="id_item_9005"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9005" id="id_item_9005"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Ventaille</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9005" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9005" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -822,13 +816,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Lorsque vos alliés commencent à s'essouffler ou même lorsque vous voulez dissiper les effets d'un Vent de Panique, ce bouclier peut vous sauver la vie, il suffit de l'agiter vigoureusement dans tous les sens, un peu comme si vous vouliez calmer un nourrisson un peu trop bruyant.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9023" id="id_item_9023"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9023" id="id_item_9023"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier Volant</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9023" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9023" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -842,13 +836,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Aussi étrange que cela puisse paraître, on raconte que ce bouclier en bois et en poils, permet aux aventuriers les plus légers, de s'envoler quelques instants dans les airs, pour impressionner une dernière fois ses adversaires avant de s'écraser stupidement sur le sol.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#9008" id="id_item_9008"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#9008" id="id_item_9008"></a><table>
         <tr>
            <th class="niveau">Niveau 1</th>
            <th colspan="4" class="nom">Bouclier d'Asse</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_9008" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_9008" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>
@@ -862,13 +856,13 @@
 		</tr>
 		<tr>
            <td colspan="5" class="rem"><b>Description :</b> Ce splendide bouclier contient un échantillon d'eau de la Mer d'Asse, ce qui en plus de vous porter bonheur, pourra vous servir de gourde, si votre dulcinée ne vous accompagne pas durant vos combats.</td>
-        </tr></tbody></table><a href="https://barbok.eternal-games.com/index.php/equipements/boucliers#8855" id="id_item_8855"></a><table>
+        </tr></tbody></table><a href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#8855" id="id_item_8855"></a><table>
         <tr>
            <th class="niveau">Niveau 10</th>
            <th colspan="4" class="nom">Bouclier Fi'Squale</th>
         </tr>
   		<tr>
-			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.eternal-games.com/index.php/equipements/boucliers#id_item_8855" >#</a></td>
+			<td class="prix"><a title="Lien direct vers cet objet !" href="https://barbok.barbok-retro.com/index.php/equipements/boucliers#id_item_8855" >#</a></td>
 			<th class="recette">Recettes :</th>
 			<th class="carac">Caractéristiques :</th>
 			<th class="cond">Conditions :</th>

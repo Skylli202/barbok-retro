@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -249,7 +243,7 @@ amenez la maintenant à Oto Mustam, qui vous donnera un reçu de caisse en écha
 
 	<table>
         <tr>
-           <th class="ocentre"><img src="https://barbok.eternal-games.com/assets/images/quete/demons/demon43.jpg" alt="" /><br /><img src="../../assets/images/quete/demons/demon44.jpg" alt="" /><br /><img src="../../assets/images/quete/demons/demon45.jpg" alt="" /></th>
+           <th class="ocentre"><img src="https://barbok.barbok-retro.com/assets/images/quete/demons/demon43.jpg" alt="" /><br /><img src="../../assets/images/quete/demons/demon44.jpg" alt="" /><br /><img src="../../assets/images/quete/demons/demon45.jpg" alt="" /></th>
         </tr>
   		<tr>
 		   <th class="marques"><br />Achetez 10 marteaux de boisaille à l'hdv forgeron.<br /></th>

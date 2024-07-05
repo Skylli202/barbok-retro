@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -205,7 +199,7 @@
 	
 	<table>
         <tr>
-           <th class="ocentre"><img src="../../assets/images/donjon/noel2/noel10.jpg" alt="" /><br /><img src="https://barbok.eternal-games.com/assets/images/donjon/noel/papa.jpg" alt="" /></th>
+           <th class="ocentre"><img src="../../assets/images/donjon/noel2/noel10.jpg" alt="" /><br /><img src="https://barbok.barbok-retro.com/assets/images/donjon/noel/papa.jpg" alt="" /></th>
         </tr>
   		<tr>
 		   <th class="marques"><br />5500 à 7500 PV il invoque plein de gentille merde qui vous vire PM / transpose... Il se lance reconstritution en dessous de 1000 PV, se separe en 2 et le mieux du mieux il vous "avale" au corps a corps et vous etes mort ! Sinon il drop un incryable cadeau (qui ne l'est pas toujours hein ^^) et vous avez un objet de quete pour le <a class="panop" href="noel3">Donjon Noel 3</a> encore bien pire ! Mouhahahaah<br /></th>

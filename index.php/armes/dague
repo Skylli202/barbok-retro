@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -498,7 +492,7 @@
 			<th class="a4">Conditions :</th>
 		</tr>
 		<tr>
-			<td class="screen"><img src="https://barbok.eternal-games.com/assets/images/armes/dague/grandes_dagues_de_boisaille.png" alt="Chargement de l'image..." style="width:100px;" alt=""/></td>         
+			<td class="screen"><img src="https://barbok.barbok-retro.com/assets/images/armes/dague/grandes_dagues_de_boisaille.png" alt="Chargement de l'image..." style="width:100px;" alt=""/></td>         
 <td class="b1">1x <a class='res' onMouseOver="show_image('images_v2/bois/bois_de_frene.png','Bois de Frêne','Bois')">Bois de Frêne</a><br/>5x <a class='res' onMouseOver="show_image('images_v2/bois/bois_de_chataignier.png','Bois de Châtaignier','Bois')">Bois de Châtaignier</a><br/></td>
 			<td class="b2"><b><span style='color:#655B5E;'>Dommages : 2 à 4 (neutre)</span></b><br/>Agilité : <font color='green'>1</font><br/></td>
 			<td class="b3">
@@ -1435,7 +1429,7 @@ Que celui qui les porte fasse attention : le manche glisse, il est facile de man
 			<th class="a4">Conditions :</th>
 		</tr>
 		<tr>
-			<td class="screen"><img src="https://barbok.eternal-games.com/assets/images/armes/dague/dague_hibol.png" alt="Chargement de l'image..." style="width:100px;" alt=""/></td>         
+			<td class="screen"><img src="https://barbok.barbok-retro.com/assets/images/armes/dague/dague_hibol.png" alt="Chargement de l'image..." style="width:100px;" alt=""/></td>         
 <td class="b1"></td>
 			<td class="b2"><b><span style='color:#0066FF;'>Dommages : 6 à 15 (eau)</span></b><br/></td>
 			<td class="b3">

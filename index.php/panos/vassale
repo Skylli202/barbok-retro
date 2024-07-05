@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -197,7 +191,7 @@
            <th colspan="4" class="rem">Remarques :</th>
         </tr>
 	    <tr>
-			<td colspan="4" class="marques">Fait partie de la <a class="panop", href="https://barbok.eternal-games.com/index.php/vassale">Panoplie Vassale</a></td>
+			<td colspan="4" class="marques">Fait partie de la <a class="panop", href="https://barbok.barbok-retro.com/index.php/vassale">Panoplie Vassale</a></td>
 		</tr>
 	</table>
 	
@@ -222,7 +216,7 @@
            <th colspan="4" class="rem">Remarques :</th>
         </tr>
 	    <tr>
-			<td colspan="4" class="marques">Fait partie de la <a class="panop", href="https://barbok.eternal-games.com/index.php/vassale">Panoplie Vassale</a></td>
+			<td colspan="4" class="marques">Fait partie de la <a class="panop", href="https://barbok.barbok-retro.com/index.php/vassale">Panoplie Vassale</a></td>
 		</tr>
 	</table>
 

@@ -29,20 +29,14 @@
 		</head>
 	<body>
 		<div id="en_tete">	
-			<div id="bannierre">
-				<a href="https://eternal-games.com/" target="_blank" style="font-size: 28px; color: orangered; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight: bold;">&gt; Joues à la reconstitution haute qualité de Retro 1.29 ! &lt;</a>
-			</div>
+			
 			<div id="menu_horrizontal">
 				<ul>
 					<li>
 						<a href="../../index.html">Accueil</a>
 					</li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playretro" target="_blank" style="color: orangered">Jouer à Retro 1.29 Eternal</a>
-                                        </li>
-                                        <li>
-                                                <a href="https://eternal-games.com/playlesgardiens" target="_blank" style="color: blue">Jouer à Les Gardiens Eternal</a>
-                                        </li>
+                                        
+                                        
 				</ul>
 			</div>
 			<br>
@@ -247,7 +241,7 @@
 	
 	<table>
         <tr>
-           <th class="ocentre"><img src="../../assets/images/donjon/sphincter/sphincter9.jpg" alt="" /><br /><img src="https://barbok.eternal-games.com/assets/images/donjon/sphincter/sphincter.jpg" alt="" /></th>
+           <th class="ocentre"><img src="../../assets/images/donjon/sphincter/sphincter9.jpg" alt="" /><br /><img src="https://barbok.barbok-retro.com/assets/images/donjon/sphincter/sphincter.jpg" alt="" /></th>
         </tr>
   		<tr>
 		   <th class="marques"><br />Un rat blanc, un rat noir et le sphincter ! Tuez en priorité le rat noir afin de pouvoir soigner normalement  (il lance peste noir qui fait des dommages si on soigne la personne qui a ce sort), débarrasser vous ensuite des merdouilles qui trainent autour<br />Attaquez vous ensuite au rat blanc, le plus simple est de le desenvouter pour le tuer  (il lance peste blanche qui augmente de 50% ses resistances dans l'element dans lequel vous le taper, donc 2 coups et 100% resist...)<br />La technique pour tuer le sphincter et ses 200% resist est de placer les tortues qu'il invoque à coté de lui, elles lancent un sort au cac qui fait -200% resist dans l'element de sa couleur (tortue rouge : -200% feu par exemple), taper ensuite le sphincter une fois qu'il a ce malus, attention cependant, sans CC et sans malus le Cell vous tape deja à 300-500 par tour, avec -200% quelques part il peut vous tuer trés vite (les tortues lancent aussi sur vous ce sort) ! Il faut tacler les tortues pour qu'elles restent à coté du sphincter<br />XP trés sympa, capturable, il permet de drop ressource pour pano <a class="panop" href="../panos/ratnoir">Rat Noir</a>, <a class="panop" href="../panos/ratblanc">Rat Blanc</a> et <a class="panop" href="../panos/ceremonial">Panoplie Céremoniale</a>, une personne de l'equipe droppera aussi le familier Atouin<br /></th>
